@@ -1,0 +1,11 @@
+{
+    "name": "Aduan",
+    "alias": "aduan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Aduan\\Providers\\AduanServiceProvider"
+    ],
+    "files": []
+}
